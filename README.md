@@ -147,6 +147,10 @@ Uno de ellos es que el voltaje medido por el osciloscopio y el multímetro no co
 
 # Conclusiones
 
+* Esta práctica fue muy útil porque mejoramos nuestro conocimiento del uso de osciloscopios, y a través de simulaciones aprendimos más sobre el uso de dispositivos electrónicos que usaremos en nuestra vida profesional y laboral.
+
+* Podemos concluir que una onda sinusoidal representa el valor de un voltaje variable en un tiempo continuamente variable, denotado por la amplitud y el tiempo en un par de ejes cartesianos. De la misma manera que reaccionan de la misma manera, todas las corrientes eléctricas están diseñadas para producir campos electromagnéticos de ondas de radio.
+
 # BIBLIOGRAFÍA
 
 Latam, M. (2020, 6 julio). Leyes de Kirchhoff. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/

@@ -14,6 +14,7 @@ Conozca las diferentes funciones de los osciloscopios y multímetros.
 
 # MARCO TEORICO
 
+![Onda senoidal características](https://user-images.githubusercontent.com/116819463/219550648-2d7d8dc8-470e-4338-b5a3-4481c0ea3dc6.jpg)
 
 
 # Solucion

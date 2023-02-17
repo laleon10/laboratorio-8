@@ -144,9 +144,9 @@ El voltaje de salida en RL obtenido mediante el multímetro digital es aproximad
 
 Uno de ellos es que el voltaje medido por el osciloscopio y el multímetro no coinciden, porque el osciloscopio tiene la capacidad de mostrar visualmente señales complejas. Por otro lado, un multímetro nos da una medida precisa de señales discretas. Hay una diferencia entre los dos en la imagen y el digital.
 
-#Conclusiones
+# Conclusiones
 
-#BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
 
 Latam, M. (2020, 6 julio). Leyes de Kirchhoff. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
